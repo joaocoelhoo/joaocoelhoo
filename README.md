@@ -1,10 +1,10 @@
-### Olá, Eu sou o João Coelho! 
+### Olá, eu sou o João Coelho! 
 
 
 
 - 🔭 Desenvolvedor Full Stack formado pela Trybe
 - 📚 Estudante de graduação em Análise e Desenvolvimento de Sistemas.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/joaocoelhoo">
