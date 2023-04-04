@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje sou desenvolvedor Full Stack
-- 📚 Sou estudante de graduação em Análise e Desenvolvimento de Sistemas.
+- 🔭 Desenvolvedor Full Stack formado pela Trybe
+- 📚 Estudante de graduação em Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: Ele/Dele
 
 <div>
