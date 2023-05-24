@@ -20,7 +20,7 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQFAHBvIfd6x-A/profile-displayphoto-shrink_800_800/0/1636320824734?e=1686182400&v=beta&t=gzn4AC43l__KpB4VghdWu7oDRXTb7iNOEu26UCOM_lQ">
+  <img align="right" alt="Hello-pic" height="100" style="border-radius:50px;" src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png">
 </div>
 
 ##
