@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor Full Stack formado pela Trybe
+- 🔭 Desenvolvedor Full Stack formado pela Trybe e Front End formado pela Olabi - Afrocódigos
 - 📚 Estudante de graduação em Análise e Desenvolvimento de Sistemas.
 - 😄 Pronomes: Ele/Dele
 
